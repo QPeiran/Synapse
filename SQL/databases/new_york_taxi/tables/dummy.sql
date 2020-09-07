@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CLASS]
+      ,[SECTION]
+      ,[ROLL]
+      ,[MARKS]
+  FROM [Students].[dbo].[tbl_EXAMPLETABLE]
